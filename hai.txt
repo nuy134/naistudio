@@ -1,1 +1,208 @@
-saya di ubah
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit
+$ get config --global user.email "arumjjimo@gmail.com"
+bash: get: command not found
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit
+$ get config --global user.email "arumjjimo@gmail.com"
+bash: get: command not found
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit
+$ ^C
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit
+$ git config --global user.email ^C
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit
+$ git config --global user.email "arumjjimo@gmail.com"
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit
+$ git init
+Initialized empty Git repository in C:/Users/LENOVO/Desktop/belajargit/.git/
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git add .
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git remote add origin https://github.com/nuy134/naistudio.git
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git commit -m "first commit"
+[master (root-commit) 2716779] first commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 hai.txt
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git push -u origin master
+info: please complete authentication in your browser...
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 207 bytes | 207.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/nuy134/naistudio.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]
+           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]
+           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   restore    Restore working tree files
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   diff       Show changes between commits, commit and working tree, etc
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   backfill   Download missing objects in a partial clone
+   branch     List, create, or delete branches
+   commit     Record changes to the repository
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   reset      Reset current HEAD to the specified state
+   switch     Switch branches
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+See 'git help git' for an overview of the system.
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git add .
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git commit -m "update data kedua"
+[master 5798862] update data kedua
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 resources/css.txt
+ create mode 100644 resources/js.txt
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 319 bytes | 319.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/nuy134/naistudio.git
+   2716779..5798862  master -> master
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git add .
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git commit -u "perubahan ketiga"
+error: pathspec 'perubahan ketiga' did not match any file(s) known to git
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git add .
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git commit -m "perubahan ketiga"
+[master 0359b33] perubahan ketiga
+ 3 files changed, 1 insertion(+)
+ rename resources/css.txt => helo.txt (100%)
+ delete mode 100644 resources/js.txt
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 282 bytes | 282.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/nuy134/naistudio.git
+   5798862..0359b33  master -> master
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git pull
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (1/1), done.
+remote: Total 2 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (2/2), 869 bytes | 51.00 KiB/s, done.
+From https://github.com/nuy134/naistudio
+   0359b33..bd0fcf0  master     -> origin/master
+Updating 0359b33..bd0fcf0
+Fast-forward
+ helo.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 helo.txt
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ ^C
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
