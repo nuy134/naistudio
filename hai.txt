@@ -206,3 +206,26 @@ $ ^C
 
 LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
 $
+
+cara mengupdate isi file
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git add .
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git commit -m "update terbaru"
+[master c164a6c] update terbaru
+ 1 file changed, 208 insertions(+), 1 deletion(-)
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 2.12 KiB | 2.12 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/nuy134/naistudio.git
+   bd0fcf0..c164a6c  master -> master
+
+LENOVO@LAPTOP-36BOJGR8 MINGW64 ~/Desktop/belajargit (master)
+$
